@@ -1,0 +1,8 @@
+{
+  "name": "Copy of FaithConnect",
+  "description": "A spiritual social platform connecting worshipers with religious leaders through content, community, and real-time conversations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
